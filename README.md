@@ -4,3 +4,8 @@ This is a great small challenge to help get you used to building to a design. Th
 only focus on y HTML & CSS skills. whit responsive movile and desktop method.
 
 ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+
+
+
+![https://github.com/Camilamellizo](https://github.com/Camilamellizo/Stats-preview-card-component/blob/main/stats-preview-card-component-main/design/desktop-preview.jpg?raw=true)
+
