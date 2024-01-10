@@ -3,5 +3,4 @@ About
 This is a great small challenge to help get you used to building to a design. There's no JS in this project, 
 only focus on y HTML & CSS skills. whit responsive movile and desktop method.
 
-https://github.com/Camilamellizo/Stats-preview-card-component/blob/bd4bf6afc448a493bfe52ccd38718e53f797a4c1/2.png
-
+C:\Users\Camila\Desktop\card\Stats-preview-card-component\2.png
